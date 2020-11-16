@@ -1,0 +1,24 @@
+{
+  "name": "openpaas-provisioning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@linagora/ical.js": "^1.2.4",
+    "chance": "^1.1.7",
+    "csv-parser": "^2.3.3",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^8.2.0",
+    "esn-calendar-client": "linagora/esn-calendar-client",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "ora": "^5.1.0",
+    "uuid": "^8.3.1"
+  },
+  "author": "",
+  "license": "ISC"
+}

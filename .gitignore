@@ -1,0 +1,5 @@
+.env
+node_modules
+package-lock.json
+output
+common/config/db.json
